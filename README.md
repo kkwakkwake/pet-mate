@@ -121,7 +121,7 @@ https://www.erdcloud.com/d/4i3JW87RGiuJyFCNL
 </details>
 
 ## 5. 트러블 슈팅
-<details>
+<!-- <details>
 <summary><b>백엔드</b></summary>
 <div markdown="1">
 
@@ -166,7 +166,7 @@ community.controller.ts
 </details>
 
 </div>
-</details>
+</details> -->
 
 ## 6. More Info
 - 협업 문서
