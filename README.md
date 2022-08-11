@@ -36,7 +36,7 @@ https://www.erdcloud.com/d/4i3JW87RGiuJyFCNL
 
 ## 4. 핵심 기능
 <details>
-<summary><b>백엔드</b></summary>
+<summary><b>프론트엔드</b></summary>
 <div markdown="1">
 
 
@@ -78,7 +78,7 @@ https://www.erdcloud.com/d/4i3JW87RGiuJyFCNL
 </details>
 
 <details>
-<summary><b>프론트엔드</b></summary>
+<summary><b>백엔드</b></summary>
 <div markdown="1">
 
 
