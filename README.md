@@ -40,31 +40,33 @@ https://www.erdcloud.com/d/4i3JW87RGiuJyFCNL
 <div markdown="1">
 
 
-#### 4.1. 인증 :pushpin: [코드 확인](https://github.com/joyw93/pet-mate/tree/main/server/src/auth)
-- 로그인
-  - 이메일
-  - 구글
-  - 카카오
+#### 4.1. 회원가입 & 로그인 :pushpin: [코드 확인](https://github.com/kkwakkwake/pet-mate/blob/36b6cc61207eaffd93025eb8d2fc6a9def309db0/client/components/SignUp/SignUp.js#L107)
+- 유효성 검사   
+- 닉네임, 이메일 중복확인   
 
-#### 4.2. 유저 :pushpin: [코드 확인](https://github.com/joyw93/pet-mate/tree/main/server/src/user)
-- 회원가입
-- 프로필 수정
-- 계정정보 수정
-- 내 게시글 조회
+#### 4.2. 유저 프로필 :pushpin: [코드 확인](https://github.com/joyw93/pet-mate/tree/main/server/src/user)
+- 인기게시글 SSR [코드 확인](https://github.com/joyw93/pet-mate/tree/main/server/src/user)
 
-#### 4.3. 커뮤니티 :pushpin: [코드 확인](https://github.com/joyw93/pet-mate/tree/main/server/src/community)
+#### 4.3. 메인페이지 :pushpin: [코드 확인](https://github.com/joyw93/pet-mate/tree/main/server/src/user)
+- 인기게시글 SSR [코드 확인](https://github.com/joyw93/pet-mate/tree/main/server/src/user)
+- 반응형
+
+#### 4.4. 커뮤니티 :pushpin: [코드 확인](https://github.com/joyw93/pet-mate/tree/main/server/src/community)
+- SSR
 - 게시글
   - 조회
+    - 게시글 조건부 필터링
+    - 더보기
   - 등록
   - 수정
   - 삭제
 - 댓글
   - 등록
   - 삭제
-- 해쉬태그
+- 해쉬태그 검색
 - 좋아요
 
-#### 4.4. 산책메이트 :pushpin: [코드 확인](https://github.com/joyw93/pet-mate/tree/main/server/src/sanchaek)
+#### 4.5. 산책메이트 :pushpin: [코드 확인](https://github.com/joyw93/pet-mate/tree/main/server/src/sanchaek)
 - 산책
   - 조회
   - 등록
