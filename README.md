@@ -50,12 +50,12 @@ https://www.erdcloud.com/d/4i3JW87RGiuJyFCNL
 - 인기게시글 SSR :pushpin: [코드 확인](https://github.com/kkwakkwake/pet-mate/blob/be83f5d2eb6709937a59b7069c2e266180cc0bf8/client/pages/index.js#L20)
 - 반응형
 
-#### 4.4. 커뮤니티 :pushpin: [코드 확인](https://github.com/joyw93/pet-mate/tree/main/server/src/community)
+#### 4.4. 커뮤니티 
 - SSR
 - 게시글
   - 조회
     - 게시글 조건부 필터링
-    - 더보기
+    - 더보기 :pushpin: [코드 확인](https://github.com/kkwakkwake/pet-mate/blob/74536a0c23da65299981f5a6b2cbd1302503bac0/client/components/CommunityMain/CommunityList.js#L31) :pushpin: [코드 확인](https://github.com/kkwakkwake/pet-mate/blob/74536a0c23da65299981f5a6b2cbd1302503bac0/client/sagas/community.js#L106)
   - 등록
   - 수정
   - 삭제
