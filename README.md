@@ -47,7 +47,7 @@ https://www.erdcloud.com/d/4i3JW87RGiuJyFCNL
 #### 4.2. 유저 프로필
 
 #### 4.3. 메인페이지 
-- 인기게시글 SSR :pushpin: [코드 확인]([https://github.com/joyw93/pet-mate/tree/main/server/src/user](https://github.com/kkwakkwake/pet-mate/blob/be83f5d2eb6709937a59b7069c2e266180cc0bf8/client/pages/index.js#L20))
+- 인기게시글 SSR :pushpin: [코드 확인](https://github.com/kkwakkwake/pet-mate/blob/be83f5d2eb6709937a59b7069c2e266180cc0bf8/client/pages/index.js#L20)
 - 반응형
 
 #### 4.4. 커뮤니티 :pushpin: [코드 확인](https://github.com/joyw93/pet-mate/tree/main/server/src/community)
