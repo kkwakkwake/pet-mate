@@ -51,7 +51,6 @@ https://www.erdcloud.com/d/4i3JW87RGiuJyFCNL
 - 반응형
 
 #### 4.4. 커뮤니티 
-- SSR
 - 게시글
   - 조회
     - 게시글 조건부 필터링
