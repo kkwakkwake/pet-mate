@@ -40,8 +40,8 @@ https://www.erdcloud.com/d/4i3JW87RGiuJyFCNL
 <div markdown="1">
 
 
-#### 4.1. 회원가입 & 로그인 :pushpin: [코드 확인](https://github.com/kkwakkwake/pet-mate/blob/36b6cc61207eaffd93025eb8d2fc6a9def309db0/client/components/SignUp/SignUp.js#L107)
-- 유효성 검사   
+#### 4.1. 회원가입 & 로그인 
+- 유효성 검사 :pushpin: [코드 확인](https://github.com/kkwakkwake/pet-mate/blob/36b6cc61207eaffd93025eb8d2fc6a9def309db0/client/components/SignUp/SignUp.js#L107)
 - 닉네임, 이메일 중복확인   
 
 #### 4.2. 유저 프로필
@@ -65,10 +65,10 @@ https://www.erdcloud.com/d/4i3JW87RGiuJyFCNL
 - 해쉬태그 검색
 - 좋아요
 
-#### 4.5. 산책메이트 :pushpin: [코드 확인](https://github.com/joyw93/pet-mate/tree/main/server/src/sanchaek)
-- 산책
+#### 4.5. 산책메이트 
+- 
   - 조회
-  - 등록
+  - 등록 :pushpin: [코드 확인](https://github.com/kkwakkwake/pet-mate/blob/17ef50cb999c51fd2411a2aa782f6dfd006c0b52/client/components/SanchaekPost/SanchaekPost.js#L149)
   - 수정
   - 삭제
 - 댓글
