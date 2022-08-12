@@ -36,11 +36,46 @@ https://www.erdcloud.com/d/4i3JW87RGiuJyFCNL
 
 ## 4. 핵심 기능
 <details>
-🔻프론트엔드
-📂프론트엔드
+  📂<b>프론트엔드</b>   
+  <div markdown="1">
+  
+#### 4.1. 회원가입 & 로그인 
+- 유효성 검사 :pushpin: [코드 확인](https://github.com/kkwakkwake/pet-mate/blob/36b6cc61207eaffd93025eb8d2fc6a9def309db0/client/components/SignUp/SignUp.js#L107)
+- 닉네임, 이메일 중복확인   
+
+#### 4.2. 유저 프로필
+
+#### 4.3. 메인페이지 
+- 인기게시글 SSR :pushpin: [코드 확인](https://github.com/kkwakkwake/pet-mate/blob/be83f5d2eb6709937a59b7069c2e266180cc0bf8/client/pages/index.js#L20)
+- 반응형
+
+#### 4.4. 커뮤니티 
+- 게시글
+  - 조회
+    - 게시글 조건부 필터링
+    - 더보기 :pushpin: [코드 확인](https://github.com/kkwakkwake/pet-mate/blob/74536a0c23da65299981f5a6b2cbd1302503bac0/client/components/CommunityMain/CommunityList.js#L31) :pushpin: [코드 확인](https://github.com/kkwakkwake/pet-mate/blob/74536a0c23da65299981f5a6b2cbd1302503bac0/client/sagas/community.js#L106)
+  - 등록
+  - 수정
+  - 삭제
+- 댓글
+  - 등록
+  - 삭제
+- 해쉬태그 검색
+- 좋아요
+
+#### 4.5. 산책메이트 
+- 
+  - 조회
+  - 등록 :pushpin: [코드 확인](https://github.com/kkwakkwake/pet-mate/blob/17ef50cb999c51fd2411a2aa782f6dfd006c0b52/client/components/SanchaekPost/SanchaekPost.js#L149)
+  - 수정
+  - 삭제
+- 댓글
+  - 등록
+  - 삭제
+  
+</div>
 <summary><b>프론트엔드</b></summary>
 <div markdown="1">
-🔻
   
 #### 4.1. 회원가입 & 로그인 
 - 유효성 검사 :pushpin: [코드 확인](https://github.com/kkwakkwake/pet-mate/blob/36b6cc61207eaffd93025eb8d2fc6a9def309db0/client/components/SignUp/SignUp.js#L107)
