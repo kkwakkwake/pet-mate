@@ -35,8 +35,9 @@
 https://www.erdcloud.com/d/4i3JW87RGiuJyFCNL
 
 ## 4. 핵심 기능
-<details>
+
   📂<b>프론트엔드</b>   
+  <details>
   <div markdown="1">
   
 #### 4.1. 회원가입 & 로그인 
