@@ -35,10 +35,8 @@
 https://www.erdcloud.com/d/4i3JW87RGiuJyFCNL
 
 ## 4. 핵심 기능
-
   📂<b>프론트엔드</b>   
-  <details>
-  <div markdown="1">
+   <div markdown="1">
   
 #### 4.1. 회원가입 & 로그인 
 - 유효성 검사 :pushpin: [코드 확인](https://github.com/kkwakkwake/pet-mate/blob/36b6cc61207eaffd93025eb8d2fc6a9def309db0/client/components/SignUp/SignUp.js#L107)
@@ -75,6 +73,8 @@ https://www.erdcloud.com/d/4i3JW87RGiuJyFCNL
   - 삭제
   
 </div>
+  <details>
+ 
 <summary><b>프론트엔드</b></summary>
 <div markdown="1">
   
